@@ -1,0 +1,27 @@
+{
+  "name": "snowpacktemplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordipbou/SnowpackTemplate.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jordipbou/SnowpackTemplate/issues"
+  },
+  "homepage": "https://github.com/jordipbou/SnowpackTemplate#readme",
+  "devDependencies": {
+    "frmidi": "^1.1.6",
+    "mathjs": "^9.3.2",
+    "ramda": "^0.27.1",
+    "rxjs": "^6.6.7",
+    "snowpack": "^3.3.3"
+  }
+}
